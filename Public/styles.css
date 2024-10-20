@@ -1,0 +1,37 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header{
+    background: #007bff;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+
+}
+
+h1, h2 {
+    margin: 0;
+
+}
+main{
+    padding: 20px;
+}
+
+#job_listing {
+    margin-top: 20px;
+
+}
+
+footer{
+    text-align: center;
+    padding: 10px 0;
+    background: #007bff;
+    color: white;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
